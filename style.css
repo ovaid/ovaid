@@ -650,6 +650,7 @@ section .title::after{
 
 .skills .title::after{
     content: "what i know";
+    
 }
 .skills .skills-content .column{
     width: calc(50% - 30px);
@@ -1265,3 +1266,24 @@ footer .wave#wave4
     display: none;
 }
 
+/* Default styling for .title::after */
+.title::after {
+    content: '';
+    /* Your default styles */
+    background-color: transparent;
+}
+
+/* Dark mode styles */
+.dark-mode .title::after {
+    background-color: #020202;
+    /* Any other styles for dark mode */
+}
+
+.dark-mode .services .title::after,
+.dark-mode .teams .title::after{
+    background-color: #110f0f;
+  
+  }
+  .dark-mode section .title::before {
+    background: #f7ecec;
+  }

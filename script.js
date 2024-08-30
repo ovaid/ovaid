@@ -105,7 +105,7 @@ themeToggle.addEventListener('click', function() {
 
 
 document.getElementById('downloadLink').addEventListener('click', function() {
-    var fileUrl = './images/courtnie-tosana-brqqSBSXPac-unsplash.jpg';
+    var fileUrl = './images/2024Resume0418.pdf';
     window.open(fileUrl, '_blank');
     var notification = document.getElementById('notification');
     notification.style.display = 'block';
