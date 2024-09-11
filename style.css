@@ -1113,6 +1113,7 @@ footer .wave#wave4
 }
 
 @media (max-width: 991px) {
+    
     .max-width{
         padding: 0 50px;
     }
@@ -1183,6 +1184,16 @@ footer .wave#wave4
 }
 
 @media (max-width: 690px) {
+    #home{
+        display: flex;
+        background: url("https://images.pexels.com/photos/4360449/pexels-photo-4360449.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2") no-repeat center;
+        height: 70vh;
+        color: #fff;
+        min-height: 500px;
+        background-size: cover;
+        background-attachment: fixed;
+        font-family: 'Ubuntu', sans-serif;
+    }
     .max-width{
         padding: 0 23px;
     }
@@ -1206,6 +1217,16 @@ footer .wave#wave4
 }
 
 @media (max-width: 500px) {
+    #home{
+        display: flex;
+        background: url("https://images.pexels.com/photos/4360449/pexels-photo-4360449.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2") no-repeat center;
+        height: 50vh;
+        color: #fff;
+        min-height: 500px;
+        background-size: cover;
+        background-attachment: fixed;
+        font-family: 'Ubuntu', sans-serif;
+    }
     .home .home-content .text-2{
         font-size: 50px;
     }
