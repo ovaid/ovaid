@@ -22,7 +22,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
     try {
 
-        
+
         // Server settings
         $mail->isSMTP();                                           // Set mailer to use SMTP
         $mail->Host       = 'smtp.gmail.com';                      // Gmail SMTP server
@@ -129,8 +129,4 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
             });
         </script>
     </head>
-    <body>
-    </body>
-    </html>';
-}
-?>
+    
