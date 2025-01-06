@@ -6,8 +6,8 @@
 - 👯 I’m looking to collaborate on open-source projects, innovative software solutions, and community-driven development initiatives.
 - 🤔 I’m looking for help with enhancing my skills in cloud technologies and microservices architecture.
 - 💬 Ask me about .NET development, full stack web development, and integrating various technologies.
-- 📫 How to reach me: [Your Email or LinkedIn Profile]
-- 😄 Pronouns: [Your Pronouns, e.g., He/Him, She/Her, They/Them]
+- 📫 How to reach me: ovaidmushtaq.ovi@gmail.com / rameezraja.ovi@gmail.com
+- 😄 Pronouns: Ovaid
 - ⚡ Fun fact: I love solving complex algorithms and learning new programming languages in my free time!
 
 this is my portfolio link :- https://ovaid.github.io/ovaid/
